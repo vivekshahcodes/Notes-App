@@ -9,7 +9,8 @@ The following operations can be peformed in the Notes App:
 4. Read a note
 
 How to run it on your machine:
-
+```
 1. Clone the repository
 2. Run 'npm install' (on the console)
 3. Run 'node app.js' followed by the operation you want to perform (on the console)
+```
