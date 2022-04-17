@@ -1,4 +1,4 @@
-# Notes-App
+# notes-app
 This is a note taking console application, built using Node.js. It uses the file system and command line arguments for manipulating notes, and JSON to store the notes.
 
 The following operations can be peformed in the Notes App:
